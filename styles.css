@@ -51,6 +51,11 @@ ul,li,a {
 /* General Styling */
 /* --------------- */
 
+html {
+    scroll-behavior: smooth;
+}
+
+
 body {
     margin: 0;
     font-size: 1.125rem;
