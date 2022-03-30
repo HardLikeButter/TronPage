@@ -375,6 +375,7 @@ section:first-child {
 
 .footer-icons {
     background-color: var(--pc-primColor);
+    color:rgb(0, 0, 0);
     border: none;
     border-radius: 1em;
     transition: .6s;
