@@ -255,6 +255,7 @@ section:first-child {
     border-radius: 1em;
     box-shadow: var(--bbs-shadow);
     transition: .6s;
+    cursor: pointer;
 }
 
 .prev-btn:hover,
